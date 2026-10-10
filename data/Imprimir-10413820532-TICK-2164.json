@@ -1,0 +1,296 @@
+{
+    "documento": {
+        "numero": "TICK-2164",
+        "fecha_emision": "2026-03-16",
+        "hora_emision": "07:58:29",
+        "tipo_factura": "10",
+        "moneda": "PEN",
+        "tipo_transaccion": "0101",
+        "numero_items": 11,
+        "orden_compra": 0
+    },
+    "emisor": {
+        "documento": {
+            "numero": "10413820532",
+            "tipo": "6"
+        },
+        "datos": {
+            "razon_social": "FIDEL TORRES IPANAQUE",
+            "nombre_comercial": "ELFIDE.COM"
+        },
+        "ubicacion": {
+            "ubigeo": "15028",
+            "anexo": "0000",
+            "direccion": "Calle Manuel Vargas 424 Urb. Ciudad y Campo - R\u00edmac",
+            "urbanizacion": "",
+            "provincia": "LIMA",
+            "departamento": "LIMA",
+            "distrito": "RIMAC",
+            "pais": "PE"
+        }
+    },
+    "cliente": {
+        "documento": {
+            "numero": "12345678",
+            "tipo": "9"
+        },
+        "datos": {
+            "razon_social": "CLIENTE S/N",
+            "nombre_comercial": ""
+        },
+        "ubicacion": {
+            "direccion": ".",
+            "urbanizacion": "15",
+            "provincia": "LIMA",
+            "departamento": "Lima ",
+            "distrito": "R\u00edmac",
+            "pais": "PE"
+        }
+    },
+    "notas": [
+        {
+            "id": "1000",
+            "valor": "DIECISIETE  Y 80/100 SOLES "
+        }
+    ],
+    "tipopago": {
+        "forma_pago": "Contado",
+        "monto_total": "17.80"
+    },
+    "detallecuotas": [],
+    "impuestos": {
+        "total_ope_gravadas": "15.08",
+        "total_igv_gravadas": "2.72",
+        "total_ope_exoneradas": "0.00",
+        "total_ope_inafectas": "0.00",
+        "total_ope_gratuitas": "0.00",
+        "total_igv_gratuitas": "0.00",
+        "total_ope_icbper": "0.00"
+    },
+    "items": [
+        {
+            "item": 1,
+            "codigo_producto": "78938823",
+            "nombre_producto": "HALLS BARRA MENTA 10UN",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "1.27",
+            "precio_unitario": "1.50",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "1.27",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.23",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 2,
+            "codigo_producto": "7401005914614",
+            "nombre_producto": "PEPSI Cola Botella 355ml",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "1.27",
+            "precio_unitario": "1.50",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "1.27",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.23",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 3,
+            "codigo_producto": "7401005912863",
+            "nombre_producto": "CONCORDIA SABOR A PI\u00d1A355ML",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "1.27",
+            "precio_unitario": "1.50",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "1.27",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.23",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 4,
+            "codigo_producto": "7622201714826",
+            "nombre_producto": "GALLETA SODA FIELD 32G",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "0.85",
+            "precio_unitario": "1.00",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "0.85",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.15",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 5,
+            "codigo_producto": "7751731002520",
+            "nombre_producto": "Gaseosa KR Pi\u00f1a Botella 1L",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "2.54",
+            "precio_unitario": "3.00",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "2.54",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.46",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 6,
+            "codigo_producto": "5021150012",
+            "nombre_producto": "PALL MALL AZUL x UNIDAD",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "0.85",
+            "precio_unitario": "1.00",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "0.85",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.15",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 7,
+            "codigo_producto": "5021150028",
+            "nombre_producto": "CIGARRO MARLBORO SUMMER FUSION X UND",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "1.27",
+            "precio_unitario": "1.50",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "1.27",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.23",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 8,
+            "codigo_producto": "7751731006290",
+            "nombre_producto": "Gaseosa KR Pi\u00f1a Botella 350ml",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "1.10",
+            "precio_unitario": "1.30",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "1.10",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.20",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 9,
+            "codigo_producto": "7750182000321",
+            "nombre_producto": "SPRITE LIMON 500ML",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "2.54",
+            "precio_unitario": "3.00",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "2.54",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.46",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 10,
+            "codigo_producto": "5017180016",
+            "nombre_producto": "OREGANO LOPESA 3G",
+            "codigo_afectacion": "10",
+            "cantidad": "2.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "0.85",
+            "precio_unitario": "0.50",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "0.85",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.15",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        },
+        {
+            "item": 11,
+            "codigo_producto": "7754487002912",
+            "nombre_producto": "SAZONADOR AJINOMOTO 3G",
+            "codigo_afectacion": "10",
+            "cantidad": "1.00",
+            "unidad_medida": "NIU",
+            "valor_unitario": "1.27",
+            "precio_unitario": "1.50",
+            "precio_referencial": "0.00",
+            "descuento": "0.00",
+            "valor_venta": "1.27",
+            "porcentaje_igv": "18.00",
+            "total_igv": "0.23",
+            "total_isc": "0.00",
+            "tasa_icbper": "0.50",
+            "total_icbper": "0.00"
+        }
+    ],
+    "total": {
+        "lineas": "15.08",
+        "total_impuestos": "2.72",
+        "pagable": "17.80",
+        "descuentoGlobal": "0.00",
+        "motivoDsctoGlobal": "00",
+        "descuento": "0.00",
+        "cargo": "0.00",
+        "icbper": "0.00"
+    },
+    "idpedidoweb": "2149",
+    "cajero": "admin",
+    "vendedor": "admin",
+    "nrocuotas": "0",
+    "nrocaja": "2",
+    "idcajero": "0",
+    "tipopagos": [
+        {
+            "medio": "EFECTIVO",
+            "monto": 17.8,
+            "nro_operacion": "",
+            "dinero_entregado": 17.8,
+            "vuelto": 0
+        }
+    ],
+    "hash": "Venta Interna"
+}

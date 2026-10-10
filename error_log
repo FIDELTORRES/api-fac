@@ -1,0 +1,122 @@
+[27-Aug-2025 13:27:43 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:27:43 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:27:43 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:27:43 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:40:04 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:40:04 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:40:04 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:40:04 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:42:26 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:42:26 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:42:26 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 13:42:26 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:11:31 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:11:31 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:11:32 America/Lima] PHP Warning:  require_once(xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:11:32 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required 'xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:30:57 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:30:57 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:30:58 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 14:30:58 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:42:03 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:42:03 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:42:03 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:42:03 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:48:24 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:48:24 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:48:25 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:48:25 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:49:35 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:49:35 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:49:35 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 15:49:35 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:24:40 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:24:40 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:24:40 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:24:40 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:30:13 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:30:13 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:30:13 America/Lima] PHP Warning:  require_once(/home/elfideco/public_html/api/lib/../xml/FirmarXML.php): Failed to open stream: No such file or directory in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 16:30:13 America/Lima] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elfideco/public_html/api/lib/../xml/FirmarXML.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php:4
+Stack trace:
+#0 /home/elfideco/public_html/api/emitirFacturaDesdeJson.php(11): require_once()
+#1 {main}
+  thrown in /home/elfideco/public_html/api/lib/GenerarFacturaAPI.php on line 4
+[27-Aug-2025 17:09:13 America/Lima] PHP Parse error:  Unclosed '{' on line 70 in /home/elfideco/public_html/api/db.php on line 79
+[27-Aug-2025 17:09:13 America/Lima] PHP Parse error:  Unclosed '{' on line 70 in /home/elfideco/public_html/api/db.php on line 79
